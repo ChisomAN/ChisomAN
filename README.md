@@ -17,6 +17,8 @@ Data Analyst with a background in data science, focused on transforming raw data
 - 📈 Power Consumption Analysis (Python + Dashboards)
 - 🤖 Machine Learning & Optimization (Capstone RL Model)
 
+  Check out samples of my work [here](https://chisoman.github.io/)
+
 ---
 
 ## 🛠️ Tools & Technologies
