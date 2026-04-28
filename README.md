@@ -25,8 +25,8 @@ SQL • Python • Pandas • Power BI • Excel • Scikit-learn • Git
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [https://www.linkedin.com/in/chisom-atulomah-capm%C2%AE-0ba310169/]
-- Portfolio: https://chisoman.github.io/
+- [LinkedIn](https://www.linkedin.com/in/chisom-atulomah-capm%C2%AE-0ba310169/](https://www.linkedin.com/in/chisom-atulomah-0ba310169/)
+- [Portfolio](https://chisoman.github.io/)
 
 ![Python](https://img.shields.io/badge/Python-Data-blue)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-green)
