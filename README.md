@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Chisom
 
-<!--
-**ChisomAN/ChisomAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with a background in data science, focused on transforming raw data into actionable insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 What I Do
+- Analyze data using SQL and Python
+- Build dashboards with Power BI and Streamlit
+- Perform data cleaning, exploration, and modeling
+- Translate data into business insights
+
+---
+
+## 🧠 Projects
+- 📊 SQL Business Analytics (Layoffs, E-commerce, Customer Orders)
+- 📈 Power Consumption Analysis (Python + Dashboards)
+- 🤖 Machine Learning & Optimization (Capstone RL Model)
+
+---
+
+## 🛠️ Tools & Technologies
+SQL • Python • Pandas • Power BI • Excel • Scikit-learn • Git
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: [https://www.linkedin.com/in/chisom-atulomah-capm%C2%AE-0ba310169/]
+- Portfolio: https://chisoman.github.io/
